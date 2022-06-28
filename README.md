@@ -1,5 +1,5 @@
-<div>
-### Hello, I'm Laís Viana!👋
+<div> 
+Hello, I'm Laís Viana!👋  <br>
 
 📖Sou estudante de Engenharia da Computação na UNIFACS, atualmente estudando desenvolvimento web, com foco em front-end ... <br>
 🌱 Estou estudando JavaScript <br>
