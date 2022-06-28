@@ -1,5 +1,5 @@
 <div> 
-Hello, I'm Laís Viana!👋  <br>
+<h1>Hello, I'm Laís Viana!👋<h1>  <br>
 
 📖Sou estudante de Engenharia da Computação na UNIFACS, atualmente estudando desenvolvimento web, com foco em front-end ... <br>
 🌱 Estou estudando JavaScript <br>
@@ -8,7 +8,7 @@ Hello, I'm Laís Viana!👋  <br>
   
 <div> 
 
-<div align="center">
+<div>
 
   <a href="https://github.com/LaisMagalhaesViana">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaisMagalhaesViana&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
