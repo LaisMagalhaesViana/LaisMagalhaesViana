@@ -9,7 +9,7 @@
   
 <div> 
 
-<div>
+<div allign="center">
 
   <a href="https://github.com/LaisMagalhaesViana">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LaisMagalhaesViana&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
