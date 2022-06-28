@@ -1,5 +1,5 @@
 <div> 
-<h1>Hello, I'm Laís Viana!👋</h1>  <br>
+<h1>Olá, sou Laís Viana!👋</h1>  <br>
 
 📖Sou estudante de Engenharia da Computação na UNIFACS, atualmente estudando desenvolvimento web, com foco em front-end ... <br>
 🌱 Estou estudando JavaScript <br>
@@ -26,3 +26,5 @@
   <img allign="center" alt="Lais-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
             
 </div>
+<hr>
+
