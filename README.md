@@ -2,7 +2,7 @@
 
 
 
-🔭 Sou estudante de Engenharia da Computação na UNIFACS ...
+🔭 Sou estudante de Engenharia da Computação na UNIFACS ... <br>
 🌱 Estou estudando JavaScript 
 📫 Contate-me no email: laismviana18@gmail.com
 😄 Pronomes: ela/dela
