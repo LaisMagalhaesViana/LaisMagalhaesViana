@@ -1,11 +1,9 @@
-### Olá, sou Laís Viana!👋
+<div>
+### Hello, I'm Laís Viana!👋
 
-<div align="center">
-
-🔭 Sou estudante de Engenharia da Computação na UNIFACS ... <br>
+📖Sou estudante de Engenharia da Computação na UNIFACS, atualmente estudando desenvolvimento web, com foco em front-end ... <br>
 🌱 Estou estudando JavaScript <br>
 📫 Contate-me no email: laismviana18@gmail.com <br>
-😄 Pronomes: ela/dela <br>
 ⚡ Curiosidade: Estou sempre em busca de conhecimento
   
 <div> 
